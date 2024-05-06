@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aaqib-Ahmed-Khan
 - 👀 I’m interested in machine learning and app development.
-- 🌱 I’m currently learning javascript,c,DSA in C++
-- 💞️ 
+- 🌱 I’m currently learning javascript,C,DSA in C++
 - 📫 How to reach me 
 - 😄 Pronouns: ..
 - ⚡ Fun fact: like playing mobile games.
