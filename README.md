@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **React and React**
+- 🌱 I’m currently learning ** ECMAScript 6 and React**
 
 - 👯 I’m looking to collaborate on **Html,css,Bootstrap,javascript,projects**
 
