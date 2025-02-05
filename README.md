@@ -14,7 +14,7 @@
   </svg>
 </div>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Mern Stack Developer</h3>
 
 <p align="right">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
@@ -26,9 +26,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **Express Js**
 
-- 🌱 I’m currently learning ** ECMAScript 6 and React**
+- 🌱 I’m currently learning ** Express.js**
 
 - 👯 I’m looking to collaborate on **Html,css,Bootstrap,javascript,projects**
 
