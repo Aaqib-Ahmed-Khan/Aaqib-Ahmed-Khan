@@ -3,7 +3,10 @@
 </div>
 
 <h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
-<h3 align="center">🚀 MERN Stack Developer | Cloud & Data Engineering Enthusiast | Open Source Contributor</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+MERN+Stack+Developer;Data+Engineering+Enthusiast+%7C+Open+Source+Contributor;Cloud+%7C+Docker+%7C+Python+%7C+Big+Data" alt="Typing Animation" />
+</h3>
 
 ---
 
@@ -20,7 +23,7 @@
 ---
 
 ## **💼 Let's Connect**
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
@@ -37,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true&custom_title=🚀+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -47,7 +50,7 @@
 ---
 
 ## **🛠️ Tech Stack & Tools**
-<p align="left"> 
+<p align="center"> 
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   </a> 
@@ -89,9 +92,9 @@
 ---
 
 ## **📖 Currently Learning**
-- ☁ **Cloud Computing (GCP & AWS)**
+- ☁ **Cloud Computing (AWS)**
 - 🏗 **Data Engineering (Big Data, Pipelines)**
-- 🐍 **Python for Data Science**
+- 🐍 **Python for Data Science and Data Engineering**
 - 🔢 **Pandas & Data Analysis**
 - 🎯 **OOPs Principles**
 - 📦 **Docker & Containerization**
@@ -121,13 +124,6 @@ Looking for a **passionate developer** for your next **MERN Stack or Data Engine
 
 ---
 
-### **🔥 Final Enhancements**
-✅ **Stronger Industry Positioning** (MERN + Cloud + Data Engineering)  
-✅ **Improved Branding for HRs & Recruiters**  
-✅ **More Detailed Learning Section**  
-✅ **Better Tech Stack Presentation**  
-
-🚀 **Your GitHub profile is now professional, stunning, and ready to impress!** 🚀  
-Let me know if you need more updates! 😊
-
+### 🚀 **Now your GitHub profile is visually stunning, professional, and recruiter-ready!** 🚀  
+Let me know if you need **further enhancements or additional sections**. 🎯🔥  
 
