@@ -123,7 +123,3 @@ Looking for a **passionate developer** for your next **MERN Stack or Data Engine
 📩 **Contact me at:** aaqibahmed367@gmail.com  
 
 ---
-
-### 🚀 **Now your GitHub profile is visually stunning, professional, and recruiter-ready!** 🚀  
-Let me know if you need **further enhancements or additional sections**. 🎯🔥  
-
