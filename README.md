@@ -1,96 +1,133 @@
 <div align="center">
   <img src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Banner" />
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100">
-    <text x="50%" y="50%" text-anchor="middle" font-size="48" fill="black" id="animated-name">Aaqib Ahmed Khan</text>
-    <defs>
-      <mask id="text-mask">
-        <rect x="0" y="0" width="100%" height="100%" fill="white"></rect>
-        <text x="50%" y="50%" text-anchor="middle" font-size="48" fill="black"></text>
-      </mask>
-    </defs>
-    <rect x="0" y="0" width="100%" height="100%" fill="black" mask="url(#text-mask)">
-      <animate attributeName="width" from="100%" to="0" dur="4s" begin="1s" fill="freeze" />
-    </rect>
-  </svg>
 </div>
 
-<h3 align="center">A passionate MERN Stack Developer</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaqib-ahmed-khan&theme=react&hide_border=true&border_radius=5&fire=FF4500&ring=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak"/>
-</p>
-
-<p align="right">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aaqib-ahmed-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aaqib-ahmed-khan" alt="GitHub Trophies" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on **Express.js**
-- 🌱 I’m currently learning **Express.js**
-- 👯 I’m looking to collaborate on **HTML, CSS, Bootstrap, JavaScript projects**
-- 🤝 I’m looking for help with **WEB DEVELOPMENT**
-- 📝 I regularly write articles on **[TECH](TECH)**
-- 💬 Ask me about **WEB DEVELOPMENT**
-- 📫 How to reach me: **aaqibahmed367@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a/)
-- ⚡ Fun fact: **I love reading books 🙂**
+<h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
+<h3 align="center">🚀 MERN Stack Developer | Cloud & Data Engineering Enthusiast | Open Source Contributor</h3>
 
 ---
 
-### Connect with me:
+## **👨‍💻 About Me**
+- 🔭 Currently working on **Express.js & Backend Systems**
+- 🌱 Learning **Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
+- 👯 Open to **collaborations in Web Development, MERN Stack & Data Engineering**
+- 📝 Writing technical articles on **[Tech](#)**
+- 💬 Ask me about **Full Stack Development, Data Engineering, Cloud & Python**
+- 📫 Reach me at **aaqibahmed367@gmail.com**
+- 📄 Find me on **[LinkedIn](https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a/)**
+- ⚡ Fun fact: **I love exploring new technologies & solving real-world problems 🙂**
+
+---
+
+## **💼 Let's Connect**
 <p align="left">
   <a href="https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="mailto:aaqibahmed367@gmail.com">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="50" />
   </a>
 </p>
 
 ---
 
-### Languages and Tools:
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+## **📊 GitHub Stats & Contributions**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaqib-ahmed-khan&theme=react&hide_border=true&fire=FF4500&ring=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqib-ahmed-khan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## **🛠️ Tech Stack & Tools**
+<p align="left"> 
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a> 
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  </a> 
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  </a> 
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a> 
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+## **📖 Currently Learning**
+- ☁ **Cloud Computing (GCP & AWS)**
+- 🏗 **Data Engineering (Big Data, Pipelines)**
+- 🐍 **Python for Data Science**
+- 🔢 **Pandas & Data Analysis**
+- 🎯 **OOPs Principles**
+- 📦 **Docker & Containerization**
+
+---
+
+## **🏆 GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaqib-ahmed-khan&theme=radical&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## **💡 Open Source Projects**
+Here are some of my open-source projects that you can check out:
+- 🔥 **[Project 1 - Name](#)**  
+- ⚡ **[Project 2 - Name](#)**  
+- 🚀 **[Project 3 - Name](#)**  
+
+Feel free to contribute! ⭐
+
+---
+
+## **📢 Let's Work Together!**
+Looking for a **passionate developer** for your next **MERN Stack or Data Engineering project**?  
+📩 **Contact me at:** aaqibahmed367@gmail.com  
+
+---
+
+### **🔥 Final Enhancements**
+✅ **Stronger Industry Positioning** (MERN + Cloud + Data Engineering)  
+✅ **Improved Branding for HRs & Recruiters**  
+✅ **More Detailed Learning Section**  
+✅ **Better Tech Stack Presentation**  
+
+🚀 **Your GitHub profile is now professional, stunning, and ready to impress!** 🚀  
+Let me know if you need more updates! 😊
 
 
