@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+MERN+Stack+Developer;Data+Engineering+Enthusiast+%7C+Open+Source+Contributor;Cloud+%7C+Docker+%7C+Python+%7C+Big+Data" alt="Typing Animation" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&coor=F76C6C&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+MERN+Stack+Developer;Data+Engineering+Enthusiast+%7C+Open+Source+Contributor;Cloud+%7C+Docker+%7C+Python+%7C+Big+Data" alt="Typing Animation"](https://camo.githubusercontent.com/a51c0cda9d97098dc5dd5aacb107938e618b81cf3f27c99f80fa99d5e8e2226c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966) />
 </h3>
 
 ---
