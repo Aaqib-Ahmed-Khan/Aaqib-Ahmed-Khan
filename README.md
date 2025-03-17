@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Banner" />
-</div>
+
 
 <h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
 
