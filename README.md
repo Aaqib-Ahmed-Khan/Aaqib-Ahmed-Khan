@@ -71,9 +71,9 @@
 <a href="https://desktop.github.com/" target="_blank">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Desktop" width="50" height="50"/>
     </a>
- <a href="https://www.snowflake.com/" target="_blank">
-    <img src="https://companieslogo.com/img/orig/SNOW-7f6697f4.png?t=1633506460" alt="Snowflake" width="50" height="50"/>
-</a>
+    <a href="https://www.snowflake.com/" target="_blank">
+        <img src="https://static-00.iconduck.com/assets.00/snowflake-icon-2048x2048-h3mh2rfd.png" alt="Snowflake" width="50" height="50"/>
+    </a>
 
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
