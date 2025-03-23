@@ -8,12 +8,19 @@
 
 ---
 
+## **👀 Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaqib-ahmed-khan&label=Profile%20Views&color=red&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 ## **👨‍💻 About Me**
-- 🔭 Currently working on **Express.js & Backend Systems**
+- 🔭 Currently working on Pandas,Jupyter**
 - 🌱 Learning **Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
 - 👯 Open to **collaborations in Web Development, MERN Stack & Data Engineering**
 - 📝 Writing technical articles on **[Tech](#)**
-- 💬 Ask me about **Full Stack Development, Data Engineering, Cloud & Python**
+- 💬 Ask me about ** Mern Stack, Data Engineering, Cloud & Python**
 - 📫 Reach me at **aaqibahmed367@gmail.com**
 - 📄 Find me on **[LinkedIn](https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a/)**
 - ⚡ Fun fact: **I love exploring new technologies & solving real-world problems 🙂**
