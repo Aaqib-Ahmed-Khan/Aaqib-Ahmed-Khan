@@ -89,8 +89,9 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   </a> 
 <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/datablist/pandas-logo/main/pandas_white_bg.png" alt="Pandas" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark_white.jpg" alt="Pandas" width="50" height="50"/>
 </a>
+
 
 
   <a href="https://cloud.google.com/" target="_blank">
