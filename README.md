@@ -88,9 +88,10 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50"/>
-  </a>
+ <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/120px-Pandas_logo.svg.png" alt="Pandas" width="50" height="50"/>
+</a>
+
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
   </a>
