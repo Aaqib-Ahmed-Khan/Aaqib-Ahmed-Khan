@@ -58,6 +58,23 @@
 
 ## **🛠️ Tech Stack & Tools**
 <p align="center"> 
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/200px-Jupyter_logo.svg.png" alt="Jupyter" width="50" height="50"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" height="50"/>
+</a>
+<a href="https://desktop.github.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GitHubDesktopLogo.png/200px-GitHubDesktopLogo.png" alt="GitHub Desktop" width="50" height="50"/>
+</a>
+<a href="https://www.snowflake.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Snowflake_Inc.png/200px-Snowflake_Inc.png" alt="Snowflake" width="50" height="50"/>
+</a>
+
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   </a> 
@@ -98,6 +115,7 @@
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
   </a>
+  
 </p>
 
 ---
