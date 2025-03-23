@@ -69,11 +69,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" width="50" height="50"/>
 </a>
 <a href="https://desktop.github.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GitHubDesktopLogo.png/200px-GitHubDesktopLogo.png" alt="GitHub Desktop" width="50" height="50"/>
-</a>
-<a href="https://www.snowflake.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Snowflake_Inc.png/200px-Snowflake_Inc.png" alt="Snowflake" width="50" height="50"/>
-</a>
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Desktop" width="50" height="50"/>
+    </a>
+  <a href="https://www.snowflake.com/" target="_blank">
+        <img src="https://companieslogo.com/img/orig/SNOW_BIG-61cb5d9f.png?t=1602478782" alt="Snowflake" width="50" height="50"/>
+    </a>
 
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
