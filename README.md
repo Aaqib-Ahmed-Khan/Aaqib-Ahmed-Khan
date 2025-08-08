@@ -1,9 +1,7 @@
-
-
 <h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E6E6&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+MERN+Stack+Developer;Data+Engineering+Enthusiast+%7C+Open+Source+Contributor;Cloud+%7C+Docker+%7C+Python+%7C+Big+Data" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E6E6&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Tech+Enthusiast;Currently+Practicing+Data+Structures+and+Algorithms;Data+Engineering+Enthusiast+%7C+Open+Source+Contributor;Cloud+%7C+Docker+%7C+Python+%7C+Big+Data" alt="Typing Animation" />
 </h3>
 
 
