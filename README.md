@@ -45,7 +45,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true&custom_title=🚀+GitHub+Stats" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true&custom_title=🚀+GitHub+Stats" alt="GitHub Stats" />
+ -->
+<img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true&custom_title=🚀+GitHub+Stats&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
