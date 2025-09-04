@@ -138,12 +138,12 @@
 ---
 
 ## **💡 Open Source Projects**
-Here are some of my open-source projects that you can check out:
-- 🔥 **[Project 1 - Name](#)**  
-- ⚡ **[Project 2 - Name](#)**  
-- 🚀 **[Project 3 - Name](#)**  
+## Here are some of my open-source projects that you can check out:
+## - 🔥 **[Project 1 - Name](#)**  
+##- ⚡ **[Project 2 - Name](#)**  
+##- 🚀 **[Project 3 - Name](#)**  
 
-Feel free to contribute! ⭐
+## Feel free to contribute! ⭐
 
 ---
 
