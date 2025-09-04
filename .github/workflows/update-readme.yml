@@ -1,0 +1,29 @@
+name: Update README from private repo
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v3
+
+      - name: Pull README from private repo
+        env:
+          PRIVATE_REPO_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          git clone https://$PRIVATE_REPO_TOKEN@github.com/Aaqib-Ahmed-Khan/Aaqib-Profile-Scripts.git temp-repo
+          cp temp-repo/README.md ./README.md
+          rm -rf temp-repo
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update README from private repo" || echo "No changes to commit"
+          git push
