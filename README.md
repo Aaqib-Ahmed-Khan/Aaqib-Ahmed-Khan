@@ -134,16 +134,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaqib-ahmed-khan&theme=radical&margin-w=15" alt="GitHub Trophies"/>
 </p>
-
 ---
-
-## **💡 Open Source Projects**
-## Here are some of my open-source projects that you can check out:
-## - 🔥 **[Project 1 - Name](#)**  
-##- ⚡ **[Project 2 - Name](#)**  
-##- 🚀 **[Project 3 - Name](#)**  
-
-## Feel free to contribute! ⭐
 
 ---
 
