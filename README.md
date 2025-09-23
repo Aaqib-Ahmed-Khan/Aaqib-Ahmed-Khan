@@ -16,8 +16,8 @@
 ---
 
 ## **👨‍💻 About Me**
-- 🔭 Currently working on Pandas,Jupyter**
-- 🌱 Learning **Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
+- 🔭 Currently working on AWS,airflow,Snowflake**
+- 🌱 Learning **Data structures and algorithms,Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
 - 👯 Open to **collaborations in Web Development, MERN Stack & Data Engineering**
 - 📝 Writing technical articles on **[Tech](#)**
 - 💬 Ask me about ** Mern Stack, Data Engineering, Cloud & Python**
