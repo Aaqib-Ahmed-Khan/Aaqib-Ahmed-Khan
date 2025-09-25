@@ -19,7 +19,7 @@
 - 🔭 Currently working on AWS,airflow,Snowflake**
 - 🌱 Learning **Data structures and algorithms,Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
 - 👯 Open to **collaborations in Web Development, MERN Stack & Data Engineering**
-- 📝 Writing technical articles on **[Tech](#)**
+- 📝 Writing technical articles on **[Dev.to](https://dev.to/aaqib_dev)**
 - 💬 Ask me about ** Mern Stack, Data Engineering, Cloud & Python**
 - 📫 Reach me at **aaqibahmed367@gmail.com**
 - 📄 Find me on **[LinkedIn](https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a/)**
