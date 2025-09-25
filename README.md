@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
+g<h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E6E6&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Tech+Enthusiast;Currently+Practicing+Data+Structures+and+Algorithms;Data+Engineering+Enthusiast+%7C+Open+Source+Contributor;Cloud+%7C+Docker+%7C+Python+%7C+Big+Data" alt="Typing Animation" />
@@ -16,7 +16,6 @@
 ---
 
 ## **👨‍💻 About Me**
-- 🔭 Currently working on AWS,airflow,Snowflake**
 - 🌱 Learning **Data structures and algorithms,Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
 - 👯 Open to **collaborations in Web Development, MERN Stack & Data Engineering**
 - 📝 Writing technical articles on **[Dev.to](https://dev.to/aaqib_dev)**
@@ -70,19 +69,13 @@
 </a>
 <a href="https://desktop.github.com/" target="_blank">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Desktop" width="50" height="50"/>
-    </a>
-    <a href="https://www.snowflake.com/" target="_blank">
-        <img src="https://static-00.iconduck.com/assets.00/snowflake-icon-2048x2048-h3mh2rfd.png" alt="Snowflake" width="50" height="50"/>
-    </a>
+</a>
+<a href="https://www.snowflake.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" alt="Snowflake" width="50" height="50"/>
+</a>
 
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a> 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a> 
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
   </a> 
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -108,10 +101,6 @@
 <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="50" height="50"/>
 </a>
-
-
-
-
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/>
   </a>
@@ -119,7 +108,27 @@
 </p>
 
 ---
+## **📖 Core CS Concepts**
+-  Data Structures & Algorithms (DSA)  
+-  Object-Oriented Programming (OOPs)  
+- ⚙️ Problem Solving & Algorithms  
+- 🖥️ Assembly Language   
 
+---
+## **💻 Operating Systems**
+<p align="center">
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  </a>
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="50" height="50"/>
+  </a>
+</p>
+
+---
 ## **📖 Currently Learning**
 - ☁ **Cloud Computing (AWS)**
 - 🏗 **Data Engineering (Big Data, Pipelines)**
