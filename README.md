@@ -54,6 +54,11 @@
 </p>
 
 ---
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaqib-ahmed-khan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+---
 
 ## **🛠️ Tech Stack & Tools**
 <p align="center"> 
