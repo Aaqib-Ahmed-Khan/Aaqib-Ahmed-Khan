@@ -41,7 +41,7 @@
 
 ## **📊 GitHub Stats & Contributions**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaqib-ahmed-khan&theme=react&hide_border=true&fire=FF4500&ring=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaqib-ahmed-khan&theme=react&hide_border=true&fire=FF4500&ring=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
