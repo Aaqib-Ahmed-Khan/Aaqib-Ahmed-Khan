@@ -71,7 +71,7 @@ g<h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Desktop" width="50" height="50"/>
 </a>
 <a href="https://www.snowflake.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" alt="Snowflake" width="50" height="50"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Snowflake-Logo.png" alt="Snowflake" width="50" height="50"/>
 </a>
 
   <a href="https://react.dev/" target="_blank">
@@ -143,11 +143,9 @@ g<h1 align="center">Hi, I'm Aaqib Ahmed Khan 👋</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aaqib-ahmed-khan&theme=radical&margin-w=15" alt="GitHub Trophies"/>
 </p>
+
 ---
-
-
 ## **📢 Let's Work Together!**
 Looking for a **passionate developer** for your next **MERN Stack or Data Engineering project**?  
 📩 **Contact me at:** aaqibahmed367@gmail.com  
 
----
