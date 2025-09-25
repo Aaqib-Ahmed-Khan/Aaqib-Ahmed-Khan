@@ -58,7 +58,7 @@
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=aaqib-ahmed-khan&theme=github-compact&hide_border=true&area=true" 
-    alt="aaqib-ahmed-khan's contribution graph" 
+    alt="My contribution graph" 
   />
 </p>
 ---
