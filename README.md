@@ -18,7 +18,7 @@
 ## **👨‍💻 About Me**
 - 🌱 Learning **Data structures and algorithms,Cloud Computing, Data Engineering, Pandas, Python, OOPs, Docker**
 - 👯 Open to **collaborations in Web Development, MERN Stack & Data Engineering**
-- 📝 Writing technical articles on **[Dev.to](https://dev.to/aaqib_dev)**
+- 📝 Writing technical articles on **[Medium](https://medium.com/@aaqibahmed367)**
 - 💬 Ask me about ** Mern Stack, Data Engineering, Cloud & Python**
 - 📫 Reach me at **aaqibahmed367@gmail.com**
 - 📄 Find me on **[LinkedIn](https://www.linkedin.com/in/aaqib-ahmed-khan-69298520a/)**
