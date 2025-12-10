@@ -114,8 +114,9 @@
 ## **📖 Core CS Concepts**
 -  Data Structures & Algorithms (DSA)  
 -  Object-Oriented Programming (OOPs)  
-- ⚙️ Problem Solving & Algorithms  
-- 🖥️ Assembly Language   
+-  Assembly Language
+-  Operating Systems
+-  Computer Organization And Architecture (8086 microprocessor and Memory hierarchy)
 
 ---
 ## **💻 Operating Systems**
