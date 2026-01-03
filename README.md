@@ -126,12 +126,6 @@
 
 ---
 
-## **🏆 GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaqib-ahmed-khan&theme=radical&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
 ## **📢 Let's Work Together!**
 Looking for a **passionate developer** for your next **MERN Stack or Data Engineering project**?  
 📩 **Contact me at:** aaqibahmed367@gmail.com  
