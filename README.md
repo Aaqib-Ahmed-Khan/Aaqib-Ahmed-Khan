@@ -38,23 +38,6 @@
 
 ---
 
-## **📊 GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aaqib-ahmed-khan&theme=react&hide_border=true&fire=FF4500&ring=FFD700&currStreakLabel=00FFFF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true&custom_title=🚀+GitHub+Stats" alt="GitHub Stats" />
- -->
-<img src="https://github-readme-stats.vercel.app/api?username=aaqib-ahmed-khan&show_icons=true&theme=radical&count_private=true&custom_title=🚀+GitHub+Stats&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaqib-ahmed-khan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 
 ## **🛠️ Tech Stack & Tools**
 <p align="center"> 
